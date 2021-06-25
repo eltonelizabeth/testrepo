@@ -1,4 +1,4 @@
 # testrepo
 testing setup
-this is a line from RStudio
-trying this again to make sure 
+\n this is a line from RStudio
+\n trying this again to make sure 
